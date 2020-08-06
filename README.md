@@ -1,1 +1,1 @@
-# Customer-Clusterization-with-KMeans
+# Customer-Clustering-with-KMeans
